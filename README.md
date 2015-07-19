@@ -1,4 +1,12 @@
-be_phpinfo
-==========
+# be_phpinfo
+Contao-Erweiterung: phpinfo() Anzeige für Admin-User im Backend
 
-shows phpinfo() for admin-user
+Contao 2.9 bis 3.5 getestet
+
+
+
+
+![](/assets/bephpinfo.JPG)
+
+# Links
+folgen
